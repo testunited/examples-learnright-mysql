@@ -7,7 +7,7 @@ USE learnright;
     
 DROP TABLE IF EXISTS `book_title`;
 CREATE TABLE `book_title` (
-  `id` bigint(20) NOT NULL,
+  `id` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,
   `author` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`),
@@ -16,7 +16,7 @@ CREATE TABLE `book_title` (
 
 DROP TABLE IF EXISTS `course`;
 CREATE TABLE `course` (
-  `id` bigint(20) NOT NULL,
+  `id` int(11) NOT NULL,
   `book_title_id` bigint(20) NOT NULL,
   `name` varchar(255) NOT NULL,
   `start_date` datetime NOT NULL,
