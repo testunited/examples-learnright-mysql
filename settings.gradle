@@ -1,0 +1,7 @@
+rootProject.name = 'learnright'
+include 'booktitle-service'
+include 'course-service'
+include 'provisioning-service'
+include 'booktitle-service-test'
+include 'course-service-test'
+include 'provisioning-service-test'
