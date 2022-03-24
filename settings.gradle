@@ -1,7 +1,0 @@
-rootProject.name = 'learnright'
-include 'learnright-booktitle-service'
-include 'learnright-course-service'
-include 'learnright-provisioning-service'
-include 'learnright-booktitle-service-test'
-include 'learnright-course-service-test'
-include 'learnright-provisioning-service-test'
