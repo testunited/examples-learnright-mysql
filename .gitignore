@@ -1,1 +1,12 @@
-.gradle/
+/.gradle/
+/learnright/
+/.vscode/
+/booktitle-service/
+/booktitle-service-test/
+/course-service/
+/course-service-test/
+/provisioning-service/
+/provisioning-service-test/
+/deploy/
+/mysql/
+/test-util/

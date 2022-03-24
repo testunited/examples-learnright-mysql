@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "booktitle-service": "git@github.com:testunited/examples-learnright-booktitle-service.git",
+    "course-service": "git@github.com:testunited/examples-learnright-course-service.git",
+    "provisioning-service": "git@github.com:testunited/examples-learnright-provisioning-service.git",
+    "booktitle-service-test": "git@github.com:testunited/examples-learnright-booktitle-service-test.git",
+    "course-service-test": "git@github.com:testunited/examples-learnright-course-service-test.git",
+    "provisioning-service-test": "git@github.com:testunited/examples-learnright-provisioning-service-test.git",
+    "deploy": "git@github.com:testunited/examples-learnright-deploy.git",
+    "mysql": "git@github.com:testunited/examples-learnright-mysql.git",
+    "test-util": "git@github.com:testunited/examples-learnright-test-util.git"
+  }
+}
